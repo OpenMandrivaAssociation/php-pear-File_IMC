@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	Create and parse Internet Mail Consortium-style files
 License:	PHP License
 Group:		Development/PHP
