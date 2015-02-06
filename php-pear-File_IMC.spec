@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.5.0
-Release:	1
+Release:	2
 Summary:	Create and parse Internet Mail Consortium-style files
 License:	PHP License
 Group:		Development/PHP
