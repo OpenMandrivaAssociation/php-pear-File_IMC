@@ -8,7 +8,7 @@ Release:	2
 Summary:	Create and parse Internet Mail Consortium-style files
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/File_IMC/
+URL:		https://pear.php.net/package/File_IMC/
 Source0:	http://download.pear.php.net/package/File_IMC-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
